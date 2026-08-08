@@ -126,14 +126,3 @@ Uma janela Swing será aberta exibindo o tabuleiro de xadrez 8×8 com casas alte
 - [x] Classe base `Peca` com atributos de posição, símbolo e cor
 - [x] Subclasses para cada tipo de peça (Bispo, Cavalo, Peão, Rainha, Rei, Torre)
 
----
-
-## 👤 Autor
-
-Weverton Vieira Ribeiro
-
----
-
-## 📝 Licença
-
-Este projeto está sob licença [MIT](https://opensource.org/licenses/MIT).
